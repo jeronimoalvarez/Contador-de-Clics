@@ -6,7 +6,12 @@
 
 html,
 body {
-  background-color: rgb(37, 32, 56);
+  background: rgb(68, 100, 173);
+  background: linear-gradient(
+      100deg,
+      rgba(68, 100, 173, 1),
+      rgba(74, 21, 110, 1)
+  );
 }
 
 .App {
